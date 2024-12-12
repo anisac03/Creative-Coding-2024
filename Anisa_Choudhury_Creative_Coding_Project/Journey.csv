@@ -1,0 +1,15 @@
+,,,,,,
+MON,Long Walking Journey,Short Bus Journey,Short Car Journey,Short Car Journey,,
+TUES,Long Car Journey,Long Plane Journey,Short Car Journey,Short Walking Journey,Short Walking Journey,
+WED,Short Bus Journey,Short Bus Journey,Short Walking Journey,Short Walking Journey,,
+THURS,Short Walking Journey,Short Walking Journey,,,,
+FRI,Short Car Journey,Short Boat Journey,Long Walking Journey,Short Boat Journey,Short Car Journey,
+SAT,Short Car Journey,Short Car Journey,Short Walking Journey,Short Walking Journey,Long Car Journey,Long Plane Journey
+SUN,Short Car Journey,Short Walking Journey,Short Walking Journey,,,
+MON,Short Walking Journey,Long Train Journey,Long Train Journey,Short Bus Journey,,
+TUES,Short Bus Journey,Long Train Journey,Long Train Journey,Short Walking Journey,,
+WED,Short Walking Journey,Short Walking Journey,,,,
+THURS,Short Walking Journey,Long Train Journey,Long Train Journey,Short Bus Journey,Short Walking Journey,Short Walking Journey
+FRI,Long Bus Journey,Short Car Journey,Short Walking Journey,Short Walking Journey,,
+SAT,Short Walking Journey,Short Walking Journey,,,,
+SUN,Short Car Journey,Short Car Journey,,,,
